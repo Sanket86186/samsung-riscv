@@ -4,15 +4,15 @@ The program focuses on the RISC-V architecture and leverages open-source tools t
 
 ## *Basic Details*
 
-**Name:** Vinayak Venkappa Pujeri
+**Name:** Sanket s gowda
 
 **College:** Vidyavardhaka College of Engineering
 
-**Email ID:** vision.vinayak12@gmail.com / vinayakpujeri2047@gmail.com
+**Email ID:** gowdasonu262@gmail.com/vvce22ec0078@vvce.ac.in
 
-**GitHub Profile:** vinayakvision
+**GitHub Profile:** Sanket86186
 
-**LinkedIN Profile:** vinayakvision
+**LinkedIN Profile:** sanket-s-g
 
 ---
 
